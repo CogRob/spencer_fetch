@@ -1,0 +1,2 @@
+- git: {local-name: spencer_people_tracking, uri: 'https://github.com/CogRob/spencer_people_tracking.git'}
+- git: {local-name: spencer_fetch, uri: 'https://github.com/CogRob/spencer_fetch.git'}
